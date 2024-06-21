@@ -1,0 +1,14 @@
+{
+  "name": "SynesisOne",
+  "symbol": "SNS",
+  "description": "On-chain data crowdsourcing platform for AI clients. Proudly built on Solana",
+  "image": "https://raw.githubusercontent.com/Synesis-One/spl-token/main/icon.png",
+  "uri": "https://raw.githubusercontent.com/Synesis-One/spl-token/main/metadata-mpl.json",
+  "seller_fee_basis_points": 0,
+  "external_url": "https://www.synesis.one/",
+  "extensions": {
+    "website": "https://www.synesis.one/",
+    "twitter": "https://x.com/synesis_one",
+    "telegram": "https://t.me/Synesis_One"
+  }
+}
